@@ -102,10 +102,6 @@ public class ListaLigada<T> implements Coleccion<T> {
 
     private int longitud;
 
-
-    /*------------------  AQUI VA LO QUE SE VA A IMPLEMENTAR EN LA SIGUIENTE CLASE ------------------------------- */
-
-
     /**
       * Crea una nueva instancia de la clase ListaLigadaSimple.
       * Esta clase representa una lista simple genérica. 
